@@ -1,3 +1,4 @@
+![logo](https://github.com/AryanSri108/AryanSri108/blob/main/_c3116780-f1db-44cd-8ea3-6ec48913cd19.jpeg.jpg)
 <h1 align="center">Hi 👋, I'm Aryan Srivastava</h1>
 <h3 align="center">🚀 Coding my way through MCA | 🐍 Python Enthusiast | 📊 Future Data Scientist</h3>
 
