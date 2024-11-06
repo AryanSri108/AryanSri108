@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Aryan Srivastava</h1>
 <h3 align="center">🚀 Coding my way through MCA | 🐍 Python Enthusiast | 📊 Future Data Scientist</h3>
 
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Harsh-Singh-Rajput/Harsh-Singh-Rajput/master/animated.gif">
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 My portfolio [aryan-portfolio.up.railway.app](https://aryan-portfolio.up.railway.app/)
