@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 My portfolio [aryan-portfolio.up.railway.app](aryan-portfolio.up.railway.app)
+- 👨‍💻 My portfolio [aryan-portfolio.up.railway.app](https://aryan-portfolio.up.railway.app/)
 
 - 💬 Ask me about **python**
 
